@@ -1,0 +1,11 @@
+Casa "https://dle.rae.es/casa"
+Libro "https://dle.rae.es/libro"
+Árbol "https://dle.rae.es/%C3%A1rbol"
+Mar "https://dle.rae.es/mar"
+"https://dle.rae.es/sol"
+Amistad "https://dle.rae.es/amistad"
+Montaña "https://dle.rae.es/monta%C3%B1a"
+Camino "https://dle.rae.es/camino"
+Tiempo "https://dle.rae.es/tiempo"
+Esperanza "https://dle.rae.es/esperanza"
+
