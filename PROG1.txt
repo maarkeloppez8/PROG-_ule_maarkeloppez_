@@ -8,4 +8,5 @@ Montaña "https://dle.rae.es/monta%C3%B1a"
 Camino "https://dle.rae.es/camino"
 Tiempo "https://dle.rae.es/tiempo"
 Esperanza "https://dle.rae.es/esperanza"
-
+perilla "https://dle.rae.es/perilla"
+borracho "https://dle.rae.es/borracho"
